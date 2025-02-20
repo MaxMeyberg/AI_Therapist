@@ -10,7 +10,7 @@ Info on general sprint progress and individual contributions are in the `progres
 
 To begin, clone the repository to your local machine using the following command:
 ```bash
-  [git clone https://github.com/winsonc7/CS224G.git](https://github.com/MaxMeyberg/AI_Therapist.git)
+  git clone https://github.com/winsonc7/CS224G.git](https://github.com/MaxMeyberg/AI_Therapist.git)
 ```
 
 ## 2. Set up environment variables
